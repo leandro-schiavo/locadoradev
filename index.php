@@ -51,7 +51,7 @@ if (isset($_GET['menu'])) {
          <div class="container">
             <a class="navbar-brand" href="index.php">
                 <img src="./img/filmadora.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
-            LOCADORA DEV1
+            LOCADORA DEV
          </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                <span class="navbar-toggler-icon"></span>
